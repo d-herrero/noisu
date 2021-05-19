@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 
 gem "rails",                "6.0.0"
-gem "puma",                 "4.3.3"
+gem "puma",                 "4.3.8"
 gem "jbuilder",             "2.9.1"
 gem "pg",                   "1.1.4"
 gem "redis-rails",          "5.0.2"
